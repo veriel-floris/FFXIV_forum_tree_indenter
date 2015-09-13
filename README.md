@@ -6,3 +6,6 @@
 ## 動作環境
 * Firefox + Greasemonkey
 * Google Chrome
+
+## 使い方
+[LodeStoneの日記で解説しています。](http://jp.finalfantasyxiv.com/lodestone/character/54621/blog/2512427/)
